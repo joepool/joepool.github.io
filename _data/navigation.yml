@@ -1,0 +1,17 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Docs"
+    url: /docs/
+  - title: "About"
+    url: /about/
+
+docs:
+  - title: "Introduction"
+    url: /docs/getting-started/
+  - title: "Installation"
+    url: /docs/installation/
+  - title: "Usage"
+    url: /docs/usage/

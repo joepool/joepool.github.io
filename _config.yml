@@ -30,9 +30,10 @@ twitter_username: jekyllrb
 github_username:  joepool
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +54,25 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Navigation
+navigation: main
+
+# Author info (optional)
+author:
+  name: "Your Name"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Developer, tinkerer, builder."
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  docs:
+    output: true
+    permalink: /docs/:path/
+
+# Other settings
+show_excerpts: false
+paginate: 0
