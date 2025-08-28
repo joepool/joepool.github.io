@@ -3,37 +3,35 @@ main:
     url: /
   - title: "Projects"
     url: /projects/
-  - title: "Docs"
-    url: /docs/
   - title: "About"
     url: /about/
 
-docs:
+projects:
   - title: "Introduction"
-    url: /docs/getting-started/
+    url: /projects/getting-started/
   - title: "Installation"
-    url: /docs/installation/
+    url: /projects/installation/
   - title: "Usage"
-    url: /docs/usage/
+    url: /projects/usage/
 
-docs:
+projects:
   - title: "heading 1"
     children:
       - title: "Quick-Start Guide"
-        url: /docs/getting-started/
+        url: /projects/getting-started/
       - title: "Structure"
-        url: /docs/structure/
+        url: /projects/structure/
       - title: "Installation"
-        url: /docs/installation/
+        url: /projects/installation/
       - title: "Upgrading"
-        url: /docs/upgrading/
+        url: /projects/upgrading/
   - title: "heading 2"
     children:
       - title: "Quick-Start Guide"
-        url: /docs/getting-started/
+        url: /projects/getting-started/
       - title: "Structure"
-        url: /docs/structure/
+        url: /projects/structure/
       - title: "Installation"
-        url: /docs/installation/
+        url: /projects/installation/
       - title: "Upgrading"
-        url: /docs/upgrading/
+        url: /projects/upgrading/

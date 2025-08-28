@@ -73,7 +73,7 @@ collections:
 
 # Other settings
 show_excerpts: false
-paginate: 0
+#paginate: 0
 
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: "en-GB"
