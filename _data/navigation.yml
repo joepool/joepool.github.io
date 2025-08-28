@@ -15,3 +15,25 @@ docs:
     url: /docs/installation/
   - title: "Usage"
     url: /docs/usage/
+
+docs:
+  - title: "heading 1"
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/getting-started/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+  - title: "heading 2"
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/getting-started/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/

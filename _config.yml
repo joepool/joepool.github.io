@@ -47,9 +47,20 @@ navigation: main
 
 # Author info (optional)
 author:
-  name: "Your Name"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Developer, tinkerer, builder."
+  name: "Joe Pool"
+  avatar: "/assets/images/profile.png"
+  bio: "Bio goes **here**" # Note: Markdown is allowed
+  location: "London, UK"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joe-pool-243b7619b/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/joepool"
 
 # Collections
 collections:
