@@ -49,12 +49,12 @@ navigation: main
 author:
   name: "Joe Pool"
   avatar: "/assets/images/profile.png"
-  bio: "Bio goes **here**" # Note: Markdown is allowed
+  bio: "BEng Electrical and Electronic Engineering"
   location: "London, UK"
   links:
-    - label: "Made Mistakes"
+    - label: "Link"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://joepool.co.uk"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joe-pool-243b7619b/"

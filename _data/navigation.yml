@@ -7,18 +7,11 @@ main:
     url: /about/
 
 projects:
-  - title: "Introduction"
-    url: /projects/getting-started/
-  - title: "Installation"
-    url: /projects/installation/
-  - title: "Usage"
-    url: /projects/usage/
-
-projects:
-  - title: "heading 1"
+  - title: "project 1"
+    url: "projects/#project-1"
     children:
-      - title: "Quick-Start Guide"
-        url: /projects/getting-started/
+      - title: "subheading"
+        url: "projects/#project-1-subheading"
       - title: "Structure"
         url: /projects/structure/
       - title: "Installation"
