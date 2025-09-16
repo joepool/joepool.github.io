@@ -9,28 +9,34 @@ sidebar:
 
 Welcome to the projects page
 
-# Project 1
+# Home Lab
 
 about project 1
 
-## project 1 subheading
+## Where it Began
 
 subheading body
 
-### project 1 detail
+### Raspberry Pi stuff
 
 detail 1
 
-### project 1 detail
+### Homebridge
 
 detail 2
 
-## subheading 2
+## Development
 
 body
 
-# project 2
+## Current Setup
+
+body
+
+# Home Network
 
 project 2
 
-## project 2 subheading
+## Omada
+
+body

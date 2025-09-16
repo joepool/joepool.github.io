@@ -7,24 +7,16 @@ main:
     url: /about/
 
 projects:
-  - title: "project 1"
-    url: "projects/#project-1"
+  - title: "Home Lab"
+    url: "projects/#home-lab"
     children:
-      - title: "subheading"
-        url: "projects/#project-1-subheading"
-      - title: "Structure"
-        url: /projects/structure/
-      - title: "Installation"
-        url: /projects/installation/
-      - title: "Upgrading"
-        url: /projects/upgrading/
-  - title: "heading 2"
+      - title: "Where it Began"
+        url: /projects/#where-it-began
+      - title: "Development"
+        url: /projects/#development
+      - title: "Current Setup"
+        url: /projects/#current-setup
+  - title: "Home Network"
     children:
-      - title: "Quick-Start Guide"
-        url: /projects/getting-started/
-      - title: "Structure"
-        url: /projects/structure/
-      - title: "Installation"
-        url: /projects/installation/
-      - title: "Upgrading"
-        url: /projects/upgrading/
+      - title: "Omada"
+        url: /projects/#omada
